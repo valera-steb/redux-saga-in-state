@@ -4,7 +4,8 @@
   "description": "redux-saga with stateTravelInTime feature.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "compile": "tsc ./demo/counter/index.ts"
   },
   "repository": {
     "type": "git",

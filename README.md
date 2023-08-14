@@ -49,5 +49,6 @@
 
 # Разсмотренные вопросы
 
-1. [Минимальный запуск - что для этого надо?](./docs/index.md)
-2. [Что должна делать функция `proceedMiddlewareCall()`?](./docs/index.md)
+1. [Минимальный запуск - что для этого надо?](./docs/index.md##минимальный-запуск---что-для-этого-надо)
+2. [Что должна делать функция `proceedMiddlewareCall()`?](./docs/index.md#что-должна-делать-функция-proceedmiddlewarecall)
+3. [Как взаимодействовать с не `stateTrevelInTime` миром?](./docs/index.md#как-взаимодействовать-с-не-stateTrevelInTime-миром)
