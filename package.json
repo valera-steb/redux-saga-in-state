@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "compile": "tsc ./demo/counter/index.ts"
+    "dev": "vite"
   },
   "repository": {
     "type": "git",
@@ -31,7 +31,8 @@
     "prettier": "2.2.1",
     "ts-jest": "29.0.3",
     "tslib": "2.4.1",
-    "typescript": "4.8.4"
+    "typescript": "5.0.2",
+    "vite": "4.4.5"
   },
   "prettier": {
     "endOfLine": "crlf",
